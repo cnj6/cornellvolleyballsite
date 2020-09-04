@@ -1,13 +1,13 @@
-# Project 3
+# Cornell Volleyball 
 
-See the course web page for the project's requirements.
+Website for the team to stay connected with recruits, alumni, and fans.
 
-# Submission Instructions
+# Instructions
 
-See the respective **submit-_milestone_.md** file for each submission.
-
-| Submission  | Instructions                       |
+|   | Instructions                       |
 | ----------- | ---------------------------------- |
-| Milestone 1 | [submit-m1.md](submit-m1.md)   |
-| Milestone 2 | [submit-m2.md](submit-m2.md)   |
-| Final       | [submit-FINAL.md](submit-FINAL.md) |
+| 1. | Install Visual Studio Code if you do not already have it.   |
+| 2. | Download the zip file.   |
+| 3. | Unzip the zip file, save the project.   |
+| 4. | Open the project from Visual Studio Code.  |
+| 5. | Explore the website and add and delete images and tags as you please!   |
